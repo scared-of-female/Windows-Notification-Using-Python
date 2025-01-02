@@ -11,7 +11,7 @@ To build and run the Toast Notification, you'll need:
 - `win10toast`: This library is used to create and display toast notifications on Windows.
 - `time`: This is a standard Python library and does not need to be installed separately. It is used to pause the script for a specified number of seconds.
 
-### Installation
+## Installation
 
 #### pyjokes
 
